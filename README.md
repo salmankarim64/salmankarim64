@@ -20,8 +20,20 @@
 </div>
 
 
-### Hi there 👋
+### :technologist: About Me : 
+I am a 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" /> MERN stack and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="18" /> Electron developer with expertise in 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="18"/>
+          AWS DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰. 
 
+<!-- I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> developer based in Pakistan with extensive experience in  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="18"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" /> MERN stack and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  width="18" /> Electron development. Additionally, I have expertise in  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AWS DevOps, enabling me to build and deploy scalable web applications efficiently."
+ -->
 <!--
 **salmankarim64/salmankarim64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
